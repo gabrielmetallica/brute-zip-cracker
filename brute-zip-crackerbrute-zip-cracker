@@ -1,0 +1,7 @@
+```bash
+git init
+git add .
+git commit -m "Versão inicial do simulador de força bruta em ZIP"
+git branch -M main
+git remote add origin https://github.com/seu-usuario/brute-zip-cracker.git
+git push -u origin main
